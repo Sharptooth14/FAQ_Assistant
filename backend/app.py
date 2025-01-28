@@ -47,7 +47,7 @@ vectorstore = Chroma.from_documents(documents=docs, embedding=gemini_embeddings,
 vectorstore_disk = Chroma(
     persist_directory="chroma_db", embedding_function=gemini_embeddings
 )
-retriever = vectorstore_disk.as_retriever(search_type="similarity", search_kwargs={"k": 10})  # Retrieve top 10 contexts
+retriever = vectorstore_disk.as_retriever(search_type="similarity", search_kwargs={"k": 5})  # Retrieve top 10 contexts
 
 llm = ChatGroq(api_key=os.getenv('GROQ_API_KEY'),model="llama-3.3-70b-versatile",temperature=0.0,max_retries=2,)
 
