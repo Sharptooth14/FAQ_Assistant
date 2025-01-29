@@ -133,9 +133,11 @@ npm start
 ```
 ## Screenshots
 
-![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/Screenshot%202025-01-28%20233943.png)
+![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/screenshots/Screenshot%202025-01-28%20233943.png)
 
 
-![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/Screenshot%202025-01-28%20234017.png)
+![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/screenshots/Screenshot%202025-01-28%20234017.png)
 
-![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/Screenshot%202025-01-28%20234310.png)
+![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/screenshots/Screenshot%202025-01-28%20234310.png)
+
+![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/screenshots/Screenshot%202025-01-29%20123705.png)
