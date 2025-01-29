@@ -131,6 +131,13 @@ cd frontend
 ```bash
 npm start
 ```
+
+## Recording
+
+
+https://github.com/user-attachments/assets/418df29a-ea0d-41ec-806e-1750b8455561
+
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/Sharptooth14/FAQ_Assistant/blob/main/screenshots/Screenshot%202025-01-28%20233943.png)
