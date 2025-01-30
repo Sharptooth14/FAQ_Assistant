@@ -41,7 +41,7 @@ const ChatInterface = () => {
             const aiMessage = { text: data.answer, isUser: false, isNew: true };
             setMessages(prev => [...prev, aiMessage]);
 
-            // Remove the "isNew" flag after animation completes
+        
             setTimeout(() => {
                 setMessages(prev =>
                     prev.map((msg, idx) =>
